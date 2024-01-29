@@ -531,12 +531,12 @@ class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
     final int positionInMs = value.position.inMilliseconds;
     final int durationInMs = value.duration?.inMilliseconds ?? 0;
 
-    if (positionInMs >= durationInMs && position?.inMilliseconds == 0) {
+    /*if (positionInMs >= durationInMs && position?.inMilliseconds == 0) {
       isPlaying = true;
     }
     if (_isDisposed) {
       return;
-    }
+    }*/
 
     Duration? positionToSeek = position;
     if (position! > value.duration!) {
@@ -549,11 +549,11 @@ class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
     await _videoPlayerPlatform.seekTo(_textureId, positionToSeek);
     _updatePosition(position);
 
-    if (isPlaying) {
+    /*if (isPlaying) {
       play();
     } else {
       pause();
-    }
+    }*/
   }
 
   /// Sets the audio volume of [this].
