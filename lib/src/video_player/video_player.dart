@@ -551,7 +551,7 @@ class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
     await _videoPlayerPlatform.seekTo(_textureId, positionToSeek);
     _updatePosition(position);
 
-    if(Platoform.isAndroid) {
+    if(Platform.isAndroid) {
       if (isPlaying) {
         play();
       } else {

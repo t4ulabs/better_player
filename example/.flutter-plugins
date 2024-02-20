@@ -1,10 +1,10 @@
 # This is a generated file; do not edit or check into version control.
-better_player=C:\\Users\\hamdi\\New_workspace\\flutter_better_player\\
-path_provider=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider-2.0.12\\
-path_provider_android=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_android-2.0.22\\
-path_provider_foundation=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_foundation-2.1.1\\
-path_provider_linux=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.1.7\\
-path_provider_windows=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.1.3\\
-wakelock=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\wakelock-0.6.2\\
-wakelock_macos=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\wakelock_macos-0.4.0\\
-wakelock_web=C:\\Users\\hamdi\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\wakelock_web-0.4.0\\
+better_player=/Users/yassinsaddem/Desktop/T4ULabs/better_player/
+path_provider=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/path_provider-2.0.12/
+path_provider_android=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/path_provider_android-2.0.22/
+path_provider_foundation=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.1/
+path_provider_linux=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.7/
+path_provider_windows=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.3/
+wakelock=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/wakelock-0.6.2/
+wakelock_macos=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/wakelock_macos-0.4.0/
+wakelock_web=/Users/yassinsaddem/.pub-cache/hosted/pub.dev/wakelock_web-0.4.0/
